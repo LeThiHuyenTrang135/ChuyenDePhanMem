@@ -1,2 +1,4 @@
 "INIT" 
 "ADD" 
+"MUL" 
+"SUB"
